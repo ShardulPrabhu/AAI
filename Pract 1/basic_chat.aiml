@@ -1,0 +1,22 @@
+<aiml version="1.0.1" encoding="UTF-8">
+      <category>
+        <pattern>Hello</pattern>
+          <template>
+          Hello my new friend Shardul!
+         </template>
+      </category>
+
+      <category>
+        <pattern>What are you</pattern>
+         <template>
+          I am bot,and i am Silly
+          </template>
+     </category>
+
+     <category>
+          <pattern>WHAT DO YOU</pattern>
+           <template>
+            I am here to annoy you
+           </template>
+     </category>
+</aiml>

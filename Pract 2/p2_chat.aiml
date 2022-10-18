@@ -1,0 +1,42 @@
+<aiml version='1.0.1' encoding = 'UTF-8'>
+        <category>
+            <pattern>HELLO</pattern>
+            <template> Hello user </template>
+        </category>
+
+        <category>
+            <pattern>SUNDAY</pattern>
+            <template>the day before Monday following Saturday</template>
+        </category>
+
+        <category>
+            <pattern>MONDAY</pattern>
+            <template>the day before Tuesday following Sunday</template>
+        </category>
+
+        <category>
+            <pattern>TUESDAY</pattern>
+            <template>the day before Wednesday following Monday</template>
+        </category>
+
+        <category>
+            <pattern>WEDNESDAY</pattern>
+            <template>the day before Thursday following Tuesday</template>
+        </category>
+
+        <category>
+            <pattern>THURSDAY</pattern>
+            <template>the day before Monday following Wednesday</template>
+        </category>
+
+        <category>
+            <pattern>FRIDAY</pattern>
+            <template>the day before Saturday following Thursday</template>
+        </category>
+
+        <category>
+            <pattern>SATURDAY</pattern>
+            <template>the day before Sunday following Friday</template>
+        </category>
+
+</aiml>
